@@ -2,11 +2,12 @@
 title: Viking Water Sports
 email: miller.danben@gmail.com
 url: https://podcast.vikingwatersports.com
+lead: A podcast that stimulates an ongoing conversation as we navigate the world.
 description: "Click the link below to listen on your favorite podcast service. Choose Anchor for more distribution options."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
+  primary-dark: '#0c1013'
   links: '#fff'
 
 # Footer settings
